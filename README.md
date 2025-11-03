@@ -1,1 +1,3 @@
-# ai-blog-generator-181129-181470
+# Project Repository
+
+This is the initial README file for the project.
